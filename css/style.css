@@ -1,0 +1,187 @@
+body{
+    background: #d2691e;
+    background-image:url(../images/maxresdefault2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+p{
+
+    text-align: justify;
+    color:#ffffff;
+    
+   
+    
+   
+}
+
+h3{
+    color: red;
+    
+}
+
+li{
+    text-align: justify;
+    color: #00ffff;
+    background: rgba(0, 0, 0, 0.205);
+    margin: 0 0 0 20px;
+
+}
+
+img{
+    width: 100px;   
+}
+
+ol, ul{
+    padding: 0;
+}
+
+
+main{
+    width: 80%;
+    background-color: rgba(210, 105, 30, 0.397);
+    margin: 0 auto;
+    
+}
+h1, h2{
+    padding: 50px;
+    
+}
+.chocolate{
+    background-color: #000000;
+}
+.blue{
+    color: aqua;
+    width: 1505px;
+    float: right;
+}
+.text{
+    color: aqua;
+}
+.gold{
+    color:#ffff00;
+}
+.black{
+    padding: 2px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+    
+}
+.red{
+    padding: 7px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid rgba(210, 105, 30, 0.664);
+   
+
+}
+.dio{
+    padding: 3px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+    
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline;
+}
+
+nav ul li a{
+    text-emphasis: none;
+    padding: 7px 10px;
+    margin:0 20px 0 0;
+    border:1px solid chocolate;
+    background: rgba(210, 105, 30, 0.431);
+    color: blue;
+    border-radius: 10px;
+}
+
+nav ul li a:hover{
+    background:#ffff00;
+    color: rgb(255, 0, 0);
+}
+
+.lol {
+    text-align: right ;
+    width: 1676px;
+    margin: -107px auto;
+    
+}
+
+.float{
+    float: right;
+}
+
+.clear{
+    clear: both;
+
+}
+
+.pop{
+    width: 1401px;
+    float: right;
+
+
+}
+.wer{
+    width: 1305px;
+    float: right;
+}
+
+.ñop{
+    width: 1391px;
+    float: right;
+}
+.cla{
+    width: 1399px;
+    float: right;
+}
+
+.oer{
+    padding: 5px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+}
+.put{
+    width: 1395px;
+    float: right;
+}
+.tyt{
+    padding: 5px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+}
+.uyt{
+    width: 1395px;
+    float: right;
+}
+.you{
+    padding: 5px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+}
+.karl{
+    width: 1395px;
+    float: right;
+}
+.ñil{
+    padding: 5px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+}
+.bob{
+    width: 1395px;
+    float: right;
+}
+
+.pjo{
+    width: 1395px;
+    float: right;
+}
+
+
+
+
+   
